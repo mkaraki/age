@@ -11,5 +11,8 @@
         "classmap": [
             "tests"
         ]
+    },
+    "scripts": {
+        "test": "pest"
     }
 }
